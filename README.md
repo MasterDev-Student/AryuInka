@@ -2,7 +2,7 @@
 
 ## Je leak des codes ici !
 
-- 🔭 Je travaille actuellement sur Darling Cookies
+- 🔭 Je travaille actuellement sur https://fate-shop.fr
 - 🌱 Je fais des vidéos sur Youtube hihi 🤣
 ### Rejoint mon discord :
 
