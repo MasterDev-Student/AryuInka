@@ -44,4 +44,4 @@
 
 ---
 
-[discord]: https://discord.gg/darlingcookies
+[discord]: https://fate-shop.fr
