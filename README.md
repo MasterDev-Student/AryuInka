@@ -1,12 +1,12 @@
-### Coucou bb c Inka Web👋
+### Hi there, I'm MasterDev 👋
 
-## Je leak des codes ici !
+## I leak codes here!
 
-- 🔭 Je travaille actuellement sur https://fate-shop.fr
-- 🌱 Je fais des vidéos sur Youtube hihi 🤣
-### Rejoint mon discord :
+- 🔭 I am currently working on https://fate-shop.fr
+- 🌱 I make videos on Youtube hihi 🤣
+### Join my discord:
 
-[<img align="left" alt="Mon Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
